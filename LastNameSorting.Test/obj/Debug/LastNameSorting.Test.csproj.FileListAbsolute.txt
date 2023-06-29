@@ -1,0 +1,15 @@
+C:\Users\kharm\OneDrive\Documents\GitHub\LastNameSorting\LastNameSorting.Test\bin\Debug\unsorted-names-list.txt
+C:\Users\kharm\OneDrive\Documents\GitHub\LastNameSorting\LastNameSorting.Test\bin\Debug\LastNameSorting.Test.dll
+C:\Users\kharm\OneDrive\Documents\GitHub\LastNameSorting\LastNameSorting.Test\bin\Debug\LastNameSorting.Test.pdb
+C:\Users\kharm\OneDrive\Documents\GitHub\LastNameSorting\LastNameSorting.Test\bin\Debug\LastNameSorting.exe
+C:\Users\kharm\OneDrive\Documents\GitHub\LastNameSorting\LastNameSorting.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\kharm\OneDrive\Documents\GitHub\LastNameSorting\LastNameSorting.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\kharm\OneDrive\Documents\GitHub\LastNameSorting\LastNameSorting.Test\bin\Debug\LastNameSorting.pdb
+C:\Users\kharm\OneDrive\Documents\GitHub\LastNameSorting\LastNameSorting.Test\bin\Debug\LastNameSorting.exe.config
+C:\Users\kharm\OneDrive\Documents\GitHub\LastNameSorting\LastNameSorting.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\kharm\OneDrive\Documents\GitHub\LastNameSorting\LastNameSorting.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\kharm\OneDrive\Documents\GitHub\LastNameSorting\LastNameSorting.Test\obj\Debug\LastNameSorting.Test.csproj.AssemblyReference.cache
+C:\Users\kharm\OneDrive\Documents\GitHub\LastNameSorting\LastNameSorting.Test\obj\Debug\LastNameSorting.Test.csproj.CoreCompileInputs.cache
+C:\Users\kharm\OneDrive\Documents\GitHub\LastNameSorting\LastNameSorting.Test\obj\Debug\LastNameSorting.Test.csproj.CopyComplete
+C:\Users\kharm\OneDrive\Documents\GitHub\LastNameSorting\LastNameSorting.Test\obj\Debug\LastNameSorting.Test.dll
+C:\Users\kharm\OneDrive\Documents\GitHub\LastNameSorting\LastNameSorting.Test\obj\Debug\LastNameSorting.Test.pdb
